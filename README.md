@@ -9,13 +9,6 @@
 
 <br />
 
-![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-5-646CFF?logo=vite&logoColor=white)
-![AWS Amplify](https://img.shields.io/badge/AWS%20Amplify%20Hosting-FF9900?logo=awsamplify&logoColor=white)
-
-<br />
-
 **AWS 부트캠프 해커톤 프로토타입** · 로그인·DB 없이 프런트엔드만으로 동작합니다.
 
 </div>
